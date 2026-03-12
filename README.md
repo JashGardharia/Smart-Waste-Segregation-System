@@ -57,9 +57,9 @@ Fill level monitoring using ultrasonic sensors
 AI based waste classification using camera modules  
 Mobile app monitoring system
 
-# Project Difficulty: Intermediate Embedded System
+## Project Difficulty: Intermediate Embedded System
 
-# Development Time: 1 Week
+## Development Time: 1 Week
 
 ## Author
 
