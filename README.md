@@ -1,4 +1,4 @@
-# Smart Waste Segregation Trash Can
+# 🗑️ Smart Waste Segregation Trash Can 🗑️
 
 An ESP8266 based smart trash can that automatically detects and separates waste into different bins using sensors and a rotating stepper motor mechanism.
 
